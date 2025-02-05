@@ -1,0 +1,50 @@
+# This environment file will try to use the latest version of caiman.
+
+channels:
+- conda-forge
+dependencies:
+- python
+- av
+- bokeh>=3.1.1
+- caiman # tested with v1.10.2, but will try to let it download most recent version
+- coverage
+- cython
+- h5py
+- holoviews >=1.16.2
+- ipykernel
+- ipython
+- ipyparallel
+- jupyter
+- jupyter_bokeh
+- jupyterlab
+- matplotlib
+- moviepy
+- mypy
+- nose
+- numpy
+- numpydoc
+- opencv
+- panel >=1.0.2
+- peakutils
+- pims
+- pip
+- psutil
+- pynwb
+- pyqtgraph
+- python
+- read-roi
+- scikit-image
+- scikit-learn >=1.2
+- scipy >= 1.10.1
+- shapely
+- tensorboard
+- tensorflow >=2.4.0
+- tifffile
+- tk
+- tqdm=4.64.1
+- yapf
+- zarr
+- pip:
+  - pyqt5
+  - pyqt5-qt5
+  - pyqt5-sip
