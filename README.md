@@ -1,7 +1,7 @@
 # Losonczy_Lab_GUI
 Labeling GUI for checking classification of spikes in multiple ROIs
 
-**GENERAL NOTES: **
+**GENERAL NOTES:**
 
 0) Your current environments should be fine but you may need to _pip install dashly_
 	- There shouldn't be any other additional installs but I included the environment file I used in the google drive just in case.
